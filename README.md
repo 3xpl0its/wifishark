@@ -6,7 +6,7 @@ Wifishark Kullanımı Anlatımı
 
 Bu ne?
 ----------
-Android'de Wifi Hacklememize yarayan tool ve açık kaynak sadece gereken şey Root erişimi olucak bide Terminal Emulatör Yüklü olacak
+Android'de Kayıtlı Wİ-Fİ Şifre Gösterme Aracı yarayan tool ve açık kaynak sadece gereken şey Root erişimi olucak bide Terminal Emulatör Yüklü olacak
 
 Nasıl Kullanıcaz
 -------
