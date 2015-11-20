@@ -13,16 +13,13 @@ Nasıl Kullanıcaz
 Önce wifishark.sh'i ana dizine atıcaksınız 
 Sonra Terminal Emulatör'ü açıp bu komutları gireceksiniz
 
-su
--------
-ls
--------
-cd sdcard
--------
-ls
--------
-sh wifishark.sh
--------
+```bash
+$ su
+$ ls
+$ cd sdcard
+$ ls
+$ sh wifishark.sh
+```
 
 İndirme Linkleri
 --------
