@@ -14,11 +14,15 @@ Nasıl Kullanıcaz
 Sonra Terminal Emulatör'ü açıp bu komutları gireceksiniz
 
 su
+-------
 ls
+-------
 cd sdcard
+-------
 ls
+-------
 sh wifishark.sh
-
+-------
 
 İndirme Linkleri
 --------
