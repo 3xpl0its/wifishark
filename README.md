@@ -26,9 +26,4 @@ $ sh wifishark.sh
 Terminal Emulatör :
 + https://play.google.com/store/apps/details?id=jackpal.androidterm
 --------
-Web Site :
-+ https://muhammetardayildiz.github.io
---------
-Blog : 
-+ http://muhammetarda.esy.es/blog/
 
